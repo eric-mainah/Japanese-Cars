@@ -1,0 +1,33 @@
+.SignIn{
+	background-image: url(./Images/Sub-brz.jpg) ;
+	text-align: center;
+	color: black;
+	padding-bottom: 400px;
+}
+.Signup{
+	background-image: url(./Images/Sub-brz.jpg);
+	width: 1200px;
+	text-align: center;
+	color: black;
+	padding-bottom: 253px
+}
+.top_header{
+	color: black;
+	background-color: grey;
+	padding: 10px;
+	text-align: center;
+}
+.p_first{
+	color: black;
+	font-size: large;
+	text-align: center;
+}
+.bottom_footer{
+	color: black;
+	background-color: grey;
+	font-size: large;
+	padding: 10px;
+	text-align: center;
+	text-decoration: none;
+
+}
